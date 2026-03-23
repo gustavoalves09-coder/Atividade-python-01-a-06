@@ -1,6 +1,7 @@
-# serve para fazer comentarios
+
+#criando minha primeira variável
 
 nome = "Gustavo"
 idade = 15
 cidade = "paranaguá"
-altura = 1.71
+nacionalidade = "Brasileiro"
