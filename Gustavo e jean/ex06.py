@@ -1,6 +1,6 @@
-a = int(input("Digite o primeiro número: "))
-b = int(input("Digite o segundo número: "))
+num1 = int(input("Digite o primeiro número: "))
+num2 = int(input("Digite o segundo número: "))
 
-soma = a + b
+soma = num1 + num2
 
 print(F"A soma é: {soma}")
